@@ -24,6 +24,5 @@
 * **核心技術**：TCP Socket、Multi-threading、Android Custom View (`Canvas` / `Paint`)
 
 ## 執行與測試方式
-1. 下載專案到本地端：
    ```bash
    git clone [https://github.com/yienpan/Socket_Painter.git](https://github.com/yienpan/Socket_Painter.git)
